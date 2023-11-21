@@ -6,7 +6,7 @@
 - 550 manually curated examples from LBoxOpen-IE will be released soon!
 
 ## Video Demonstration
-- The video demonstration is available [here]().
+- The video demonstration is available [here](https://youtu.be/twkpjYJrvI8).
 ## Appendix
 ### Trade-off analysis table
 Trade-off analysis. FRAUD task, a most challenging task among KORPREC-IE, is chosen as a case study.
