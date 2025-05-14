@@ -1,5 +1,5 @@
 # NESTLE
-- NESTLE: A no-node tool for statistical analysis of legal corpus
+- NESTLE: A no-code tool for statistical analysis of legal corpus
 
 ## Data
 - For the demonstrational purpose, 1,500 Korean drunk driving precedents are uploaded in two versions: Korean (`data/drunk_driving_kor.jsonl`), and English  (`data/drunk_driving_eng.jsonl`). The English version is prepared by translating original documents using GPT-4.
